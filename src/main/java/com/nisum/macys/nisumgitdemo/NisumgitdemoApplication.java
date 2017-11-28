@@ -25,5 +25,9 @@ public class NisumgitdemoApplication {
 		
 		return "allproducts";
 	}
-	
+	public String getUpdtae()
+	{
+		
+		return "allproducts";
+	}
 }
