@@ -28,6 +28,6 @@ public class NisumgitdemoApplication {
 	public String getUpdtae()
 	{
 		
-		return "allproducts";
+		return "update";
 	}
 }
