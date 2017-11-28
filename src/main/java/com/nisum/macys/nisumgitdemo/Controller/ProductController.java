@@ -1,10 +1,10 @@
 package com.nisum.macys.nisumgitdemo.Controller;
 
 public class ProductController {
-	public String getProduct()
+	public String getProducts()
 	{
-		System.out.println("remote"):
-		return " one oproduct";
+		
+		return " ssss oproduct";
 	}
 
 }
