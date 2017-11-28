@@ -14,4 +14,11 @@ public class NisumgitdemoApplication {
 		System.out.println("ssss");
 		SpringApplication.run(NisumgitdemoApplication.class, args);
 	}
+
+	public String getProduct()
+		{
+			
+			return "single product";
+		}
+	
 }
