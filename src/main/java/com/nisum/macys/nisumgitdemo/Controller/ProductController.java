@@ -1,7 +1,7 @@
 package com.nisum.macys.nisumgitdemo.Controller;
 
 public class ProductController {
-	public String getProduct()
+	public String getProducts()
 	{
 		
 		return " ssss oproduct";
