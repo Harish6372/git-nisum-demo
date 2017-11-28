@@ -20,5 +20,10 @@ public class NisumgitdemoApplication {
 			
 			return "single product";
 		}
+	public String getProducts()
+	{
+		
+		return "allproducts";
+	}
 	
 }
