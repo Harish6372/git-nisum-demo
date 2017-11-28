@@ -30,4 +30,9 @@ public class NisumgitdemoApplication {
 		
 		return "update";
 	}
+	public String delete()
+	{
+		
+		return "update";
+	}
 }
